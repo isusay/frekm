@@ -1,0 +1,254 @@
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\AxInterop.MSComctlLib.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\AxInterop.MSComctlLib.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.ResolveComReference.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CopyComplete
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\MySql.Data.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\MySql.Web.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.exe.config
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form3.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form4.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form6.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form7.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\AGauge.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\EnvDTE.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\stdole.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\WebKitBrowser.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\WebKit.Interop.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\Google.Protobuf.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\Renci.SshNet.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\Google.Protobuf.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\MySql.Data.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3\WindowsApp3\bin\Debug\Renci.SshNet.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\AGauge.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\Google.Protobuf.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Data.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Web.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\Renci.SshNet.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\WebKitBrowser.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\EnvDTE.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\WebKit.Interop.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\stdole.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\Google.Protobuf.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Data.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\Renci.SshNet.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\bin\Debug\AxInterop.MSComctlLib.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.exe.config
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\AxInterop.MSComctlLib.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.ResolveComReference.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form3.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form4.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form6.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form7.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CopyComplete
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\Google.Protobuf.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Data.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Web.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\Renci.SshNet.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\WebKitBrowser.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\EnvDTE.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\WebKit.Interop.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\stdole.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\Google.Protobuf.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Data.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\Renci.SshNet.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\bin\Debug\AxInterop.MSComctlLib.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.exe.config
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\AxInterop.MSComctlLib.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.ResolveComReference.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form3.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form4.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form6.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form7.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CopyComplete
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\20012020\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.pdb
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.exe
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.pdb
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.xml
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\BouncyCastle.Crypto.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\Google.Protobuf.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Data.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\Renci.SshNet.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\WebKitBrowser.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\EnvDTE.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\WebKit.Interop.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\stdole.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\Google.Protobuf.xml
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Data.xml
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\bin\Debug\Renci.SshNet.xml
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.exe.config
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.ResolveComReference.cache
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form3.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form4.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form6.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form7.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CopyComplete
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.exe
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.xml
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.pdb
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.exe
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.pdb
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\WindowsApp3.xml
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\BouncyCastle.Crypto.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\Google.Protobuf.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Data.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\Renci.SshNet.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\WebKitBrowser.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\EnvDTE.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\WebKit.Interop.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\stdole.dll
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\Google.Protobuf.xml
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\MySql.Data.xml
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\bin\Debug\Renci.SshNet.xml
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.exe.config
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.ResolveComReference.cache
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form3.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form4.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form6.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Form7.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CopyComplete
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.exe
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.xml
+D:\ADMIN\Projek IT\SPK NET\ptc 3 maret 2020\WindowsApp3p5 - 2\WindowsApp3p\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\Google.Protobuf.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\MySql.Data.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\MySql.Web.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\Renci.SshNet.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\WebKitBrowser.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\EnvDTE.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\WebKit.Interop.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\stdole.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\Google.Protobuf.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\MySql.Data.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\Renci.SshNet.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\AxInterop.MSComctlLib.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.exe.config
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\AxInterop.MSComctlLib.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.vbproj.ResolveComReference.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Form3.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Form4.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Form6.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Form7.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CopyComplete
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\03052020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.pdb
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\WindowsApp3.exe.config
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\WindowsApp3.exe
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\WindowsApp3.pdb
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\WindowsApp3.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\Google.Protobuf.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\MySql.Data.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\MySql.Web.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\Renci.SshNet.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\WebKitBrowser.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\EnvDTE.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\WebKit.Interop.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\stdole.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\Google.Protobuf.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\Microsoft.VisualStudio.Web.BrowserLink.12.0.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\MySql.Data.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\Renci.SshNet.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\bin\Debug\AxInterop.MSComctlLib.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.vbprojAssemblyReference.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.exe.config
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\AxInterop.MSComctlLib.dll
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.vbproj.ResolveComReference.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Form2.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Form3.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Form4.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Form6.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Form7.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CopyComplete
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.exe
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.xml
+C:\Users\solo\Documents\Visual Studio 2017\project\Senzo\26062020\WindowsApp3p_Edited\WindowsApp3\obj\Debug\WindowsApp3.pdb
